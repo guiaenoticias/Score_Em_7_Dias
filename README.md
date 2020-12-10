@@ -1,15 +1,17 @@
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
-		<title>Guia do Score 7 Dias &#8211; Descubra como aumentar seu score em at&eacute; 7 dias</title>
-<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Guia do Score &#8211; Aumente o seu score de crédito</title>
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Feed para Guia do Score 7 Dias &raquo;" href="https://guiadoscore7dias.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Guia do Score 7 Dias &raquo;" href="https://guiadoscore7dias.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed para Guia do Score &raquo;" href="https://guiadoscore.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Guia do Score &raquo;" href="https://guiadoscore.com.br/comments/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/guiadoscore7dias.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/guiadoscore.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -26,140 +28,183 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css'  href='https://guiadoscore7dias.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='h5ap-style-css'  href='https://guiadoscore7dias.com/wp-content/plugins/html5-audio-player/style/player-style.css?ver=1.3' type='text/css' media='all' />
-<link rel='stylesheet' id='happy-icons-css'  href='https://guiadoscore7dias.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=2.14.0' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='happy-elementor-addons-8-css'  href='https://guiadoscore7dias.com/wp-content/uploads/happyaddons/cache/happy-8.css?ver=2.14.0.1604151392' type='text/css' media='all' />
-<link rel='stylesheet' id='hello-elementor-css'  href='https://guiadoscore7dias.com/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://guiadoscore7dias.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-animations-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-pro-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1607623109' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1607623109' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css'  href='https://guiadoscore7dias.com/wp-content/uploads/elementor/css/global.css?ver=1599321672' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-8-css'  href='https://guiadoscore7dias.com/wp-content/uploads/elementor/css/post-8.css?ver=1604151399' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CEncode+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/html5-audio-player/js/plyr.min.js?ver=1.3' id='h5ap-script-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1607623109' id='font-awesome-4-shim-js'></script>
-<link rel="https://api.w.org/" href="https://guiadoscore7dias.com/wp-json/" /><link rel="alternate" type="application/json" href="https://guiadoscore7dias.com/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://guiadoscore7dias.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://guiadoscore7dias.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.5.3" />
-<link rel="canonical" href="https://guiadoscore7dias.com/" />
-<link rel='shortlink' href='https://guiadoscore7dias.com/' />
-<link rel="alternate" type="application/json+oembed" href="https://guiadoscore7dias.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fguiadoscore7dias.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://guiadoscore7dias.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fguiadoscore7dias.com%2F&#038;format=xml" />
-<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1754076601421769');
-fbq('track', 'PageView');
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://guiadoscore.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css'  href='https://guiadoscore.com.br/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://guiadoscore.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-916-css'  href='https://guiadoscore.com.br/wp-content/uploads/elementor/css/post-916.css?ver=1606768128' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.0.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://guiadoscore.com.br/wp-content/uploads/elementor/css/global.css?ver=1606768128' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-570-css'  href='https://guiadoscore.com.br/wp-content/uploads/elementor/css/post-570.css?ver=1606768187' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-589-css'  href='https://guiadoscore.com.br/wp-content/uploads/elementor/css/post-589.css?ver=1606768187' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-591-css'  href='https://guiadoscore.com.br/wp-content/uploads/elementor/css/post-591.css?ver=1606768187' type='text/css' media='all' />
+<link rel='stylesheet' id='joinchat-css'  href='https://guiadoscore.com.br/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=4.1.1' type='text/css' media='all' />
+<style id='joinchat-inline-css' type='text/css'>
+.joinchat{ --red:37; --green:211; --blue:102; }
+</style>
+<link rel='stylesheet' id='optimizepress-default-css'  href='https://guiadoscore.com.br/wp-content/plugins/optimizePressPlugin/lib/assets/default.min.css?ver=2.5.17.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAmita%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://guiadoscore.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='optimizepress-op-jquery-base-all-js-extra'>
+/* <![CDATA[ */
+var OptimizePress = {"ajaxurl":"https:\/\/guiadoscore.com.br\/wp-admin\/admin-ajax.php","SN":"optimizepress","version":"2.5.17.1","script_debug":".min","localStorageEnabled":"","wp_admin_page":"","op_live_editor":"","op_page_builder":"","op_create_new_page":"","imgurl":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/images\/","OP_URL":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/","OP_JS":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/js\/","OP_PAGE_BUILDER_URL":"","include_url":"https:\/\/guiadoscore.com.br\/wp-includes\/","op_autosave_interval":"300","op_autosave_enabled":"N","paths":{"url":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/","img":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/images\/","js":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/js\/","css":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/css\/"},"social":{"twitter":"optimizepress","facebook":"optimizepress","googleplus":"111273444733787349971"},"flowplayerHTML5":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/modules\/blog\/video\/flowplayer\/flowplayer.swf","flowplayerKey":"","flowplayerLogo":"","mediaelementplayer":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/optimizePressPlugin\/lib\/modules\/blog\/video\/mediaelement\/","pb_unload_alert":"This page is asking you to confirm that you want to leave - data you have entered may not be saved.","pb_save_alert":"Please make sure you are happy with all of your options as some options will not be able to be changed for this page later.","search_default":"Search...","ems_providers":[],"optimizemember":{"enabled":false,"version":"0"},"OP_LEADS_URL":"https:\/\/my.optimizeleads.com\/","OP_LEADS_THEMES_URL":"https:\/\/my.optimizeleads.com\/build\/themes\/"};
+/* ]]> */
 </script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1754076601421769&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-<link rel="icon" href="https://guiadoscore7dias.com/wp-content/uploads/2020/10/cropped-EBOOKG7DIASPRONTO2-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://guiadoscore7dias.com/wp-content/uploads/2020/10/cropped-EBOOKG7DIASPRONTO2-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://guiadoscore7dias.com/wp-content/uploads/2020/10/cropped-EBOOKG7DIASPRONTO2-1-180x180.png" />
-<meta name="msapplication-TileImage" content="https://guiadoscore7dias.com/wp-content/uploads/2020/10/cropped-EBOOKG7DIASPRONTO2-1-270x270.png" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
-<body data-rsssl=1 class="home page-template page-template-elementor_canvas page page-id-8 wp-custom-logo elementor-default elementor-template-canvas elementor-kit-18 elementor-page elementor-page-8">
-			<div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8" data-elementor-settings="[]">
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/optimizePressPlugin/lib/js/op-jquery-base-all.min.js?ver=2.5.17.1' id='optimizepress-op-jquery-base-all-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.14' id='font-awesome-4-shim-js'></script>
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-160872369-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('set', 'developer_id.dZTNiMT', true);
+gtag('config', 'UA-160872369-1', {"anonymize_ip":true} );
+</script>
+<link rel="https://api.w.org/" href="https://guiadoscore.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://guiadoscore.com.br/wp-json/wp/v2/pages/570" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://guiadoscore.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://guiadoscore.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel="canonical" href="https://guiadoscore.com.br/" />
+<link rel='shortlink' href='https://guiadoscore.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="https://guiadoscore.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fguiadoscore.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://guiadoscore.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fguiadoscore.com.br%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.20.0" /><script type="text/javascript" src="https://app.monetizze.com.br/1buyclick.php?u=36e95961522b10e28f9e4f0dfb606230"></script>
+<!--BEGIN: TRACKING CODE MANAGER BY INTELLYWP.COM IN HEAD//-->
+<!-- Global site tag (gtag.js) - Google Ads: 662236183 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-662236183"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-662236183');
+</script>
+<!-- Hotjar Tracking Code for https://guiadoscore.com.br/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2091202,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!--END: https://wordpress.org/plugins/tracking-code-manager IN HEAD//-->
+        <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="https://guiadoscore.com.br/wp-content/plugins/optimizePressPlugin/lib/js/selectivizr-1.0.2-min.js?ver=1.0.2"></script>
+        <![endif]-->
+        <!--[if lt IE 9]>
+            <script src="https://guiadoscore.com.br/wp-content/plugins/optimizePressPlugin/lib/js//html5shiv.min.js"></script>
+        <![endif]-->
+    		<style type="text/css" id="wp-custom-css">
+			.site-header {
+	display: none;
+}		</style>
+		</head>
+<body data-rsssl=1 class="home page-template page-template-elementor_header_footer page page-id-570 op-plugin elementor-default elementor-template-full-width elementor-kit-916 elementor-page elementor-page-570">
+
+		<div data-elementor-type="header" data-elementor-id="589" class="elementor elementor-589 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<header class="elementor-section elementor-top-section elementor-element elementor-element-744bd14c elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="744bd14c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2a3461c3" data-id="2a3461c3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2d3e6be2 elementor-widget elementor-widget-image" data-id="2d3e6be2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="624" height="214" src="https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1.png 624w, https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1-300x103.png 300w" sizes="(max-width: 624px) 100vw, 624px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-357c7d53" data-id="357c7d53" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-27577c97 elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="27577c97" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-27577c97" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596"><a href="#comofunciona" class="elementor-item elementor-item-anchor">O que é?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-595"><a href="#vantagens" class="elementor-item elementor-item-anchor">Quem Fez?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598"><a href="#depoimentos" class="elementor-item elementor-item-anchor">Será que é bom?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599"><a href="#bonus" class="elementor-item elementor-item-anchor">Bônus</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menu" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-27577c97" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-596"><a href="#comofunciona" class="elementor-item elementor-item-anchor">O que é?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-595"><a href="#vantagens" class="elementor-item elementor-item-anchor">Quem Fez?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598"><a href="#depoimentos" class="elementor-item elementor-item-anchor">Será que é bom?</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599"><a href="#bonus" class="elementor-item elementor-item-anchor">Bônus</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7c1eac3b elementor-hidden-phone" data-id="7c1eac3b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-77b6064e elementor-align-justify elementor-widget elementor-widget-button" data-id="77b6064e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#comprar" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Comprar Agora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-36d2c761 elementor-hidden-phone" data-id="36d2c761" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</header>
+				</div>
+		</div>
+				<div data-elementor-type="wp-page" data-elementor-id="570" class="elementor elementor-570" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-43ca4a82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="43ca4a82" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-7ac7e792 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ac7e792" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5195fc06" data-id="5195fc06" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27cda201" data-id="27cda201" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-35d4058e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="35d4058e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9851aa7" data-id="9851aa7" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2797fdf4 elementor-widget elementor-widget-heading" data-id="2797fdf4" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-24f975b elementor-widget elementor-widget-heading" data-id="24f975b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h6 class="elementor-heading-title elementor-size-default"><span class="bg-texto">Vídeo Inédito Revela:</span></h6>		</div>
 				</div>
-				<div class="elementor-element elementor-element-40617b18 elementor-widget elementor-widget-heading" data-id="40617b18" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-0a24867 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="0a24867" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;750 ou mais em 7 dias ou menos.&quot;,&quot;headline_style&quot;:&quot;highlight&quot;}" data-widget_type="animated-headline.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Descubra Como Aumentar Seu Score Em </h2>		</div>
+					<h3 class="elementor-headline">
+							<span class="elementor-headline-plain-text elementor-headline-text-wrapper">O Passo a Passo Para Aumentar o seu Score para</span>
+						<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper"></span>
+					</h3>
 				</div>
-				<div class="elementor-element elementor-element-7c2e17e1 elementor-widget elementor-widget-heading" data-id="7c2e17e1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Até 900 Pontos em 7 dias ou menos.</h2>		</div>
 				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-62bce5ed elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="62bce5ed" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-element elementor-element-56fa01eb elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="56fa01eb" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo vimeo" src="https://player.vimeo.com/video/471750779?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t="></iframe>		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7cb353 elementor-align-justify elementor-hidden-phone elementor-widget elementor-widget-button" data-id="7cb353" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#oferta" class="elementor-button-link elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-arrow-down"></i>			</span>
-						<span class="elementor-button-text">SIM! EU QUERO AUMENTAR O MEU SCORE</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-61992731 elementor-hidden-phone elementor-widget elementor-widget-spacer" data-id="61992731" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2c248ba8 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="2c248ba8" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#oferta" class="elementor-button-link elementor-button elementor-size-xl" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-arrow-down"></i>			</span>
-						<span class="elementor-button-text">SIM! EU QUERO AUMENTAR O MEU SCORE</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4047e2db elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-spacer" data-id="4047e2db" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo vimeo" src="https://player.vimeo.com/video/390049807?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>		</div>
 				</div>
 				</div>
 						</div>
@@ -168,49 +213,73 @@ src="https://www.facebook.com/tr?id=1754076601421769&ev=PageView&noscript=1"
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-39cd1703 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="39cd1703" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-346d5b9c" data-id="346d5b9c" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-33e98bb9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33e98bb9" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-78864159 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78864159" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-74503f92" data-id="74503f92" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2ab14db0" data-id="2ab14db0" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2b48f88b elementor-invisible elementor-widget elementor-widget-image" data-id="2b48f88b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-687895bc elementor-align-justify elementor-widget elementor-widget-button" data-id="687895bc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://app.monetizze.com.br/checkout/KLA92054" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SIM! Eu Quero Aumentar o Meu Score Agora Mesmo</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f774319 elementor-widget elementor-widget-image" data-id="f774319" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="600" height="630" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/EBOOKG7DIASPRONTO2.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/EBOOKG7DIASPRONTO2.png 600w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/EBOOKG7DIASPRONTO2-286x300.png 286w" sizes="(max-width: 600px) 100vw, 600px" />											</div>
+										<img width="599" height="95" src="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png 599w, https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1-300x48.png 300w" sizes="(max-width: 599px) 100vw, 599px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ee8e7d7 elementor-widget elementor-widget-image" data-id="ee8e7d7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="493" height="50" src="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png 493w, https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento-300x30.png 300w" sizes="(max-width: 493px) 100vw, 493px" />											</div>
 				</div>
 				</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7bcc244a" data-id="7bcc244a" data-element_type="column">
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6776faf6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6776faf6" data-element_type="section" id="oquee" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f60e462" data-id="6f60e462" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5acbff61 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="5acbff61" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-8ba1151 elementor-widget elementor-widget-image" data-id="8ba1151" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;">O <strong>Guia do Score em 7 Dias</strong> é um Passo-a-passo detalhado criado por um dos melhores especialistas em análise de crédito de grandes bancos e que vai mostrar para você como aumentar o seu score e poder voltar a ter crédito como sempre quis independente do que deseja fazer.</span></p><p><span style="font-weight: 400;">Mas ele não revela só como você ter um score alto, como também mostra exatamente o que fazer para nunca mais ter qualquer pedido de crédito negado.</span></p><p><span style="font-weight: 400;"><strong>Consiga o crédito que você precisa no mercado e realize o desejo que você tanto sonha,</strong> como ter cartão de crédito, financiar um imóvel, um carro ou outro qualquer outro bem.</span></p><p><span style="font-weight: 400;">E além do Guia, você ainda vai ganhar mais 4 bônus exclusivos que podem de uma vez por todas resolverem todos os seus problemas com o score e garantir que você realize os seus sonhos.</span></p></div>
+					<div class="elementor-image">
+										<img width="737" height="800" src="https://guiadoscore.com.br/wp-content/uploads/2020/10/Book-2020.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/10/Book-2020.png 737w, https://guiadoscore.com.br/wp-content/uploads/2020/10/Book-2020-276x300.png 276w" sizes="(max-width: 737px) 100vw, 737px" />											</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-740b38ab elementor-align-justify elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-button" data-id="740b38ab" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-547fdbbd" data-id="547fdbbd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7f1020ba elementor-widget elementor-widget-text-editor" data-id="7f1020ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-size: 1em; background-color: transparent;">O </span><strong class="strong" style="font-size: 1em; background-color: transparent;">Guia do Score</strong><span style="font-size: 1em; background-color: transparent;"> é um Passo-a-passo detalhado criado por um dos melhores especialistas em análise de crédito de grandes bancos e que vai orientar você a conseguir aumentar o seu score e poder voltar a ter crédito como sempre quis.</span></p>
+<p><strong class="strong">Esse é o único guia que você precisa para conseguir sair de um Score de risco para um Score confiável</strong> e conseguir o crédito que precisa no mercado para fazer o que desejar, como ter cartão de crédito, financiar um imóvel, um carro ou outro bem que você tanto sonha.</p>
+<p>Mas ele não revela só como você ter um score alto, como também mostra exatamente o que fazer para nunca mais ter qualquer pedido de crédito negado.</p>
+<p>E além do Guia, você ainda tem a chance de receber junto mais 4 bônus extras que podem de uma vez por todas resolverem todos os seus problemas com o score e garantirem que você vai realizar o seu sonho.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6fb1fad8 elementor-align-justify elementor-widget elementor-widget-button" data-id="6fb1fad8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#oferta" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://app.monetizze.com.br/checkout/KLA92054" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-arrow-down"></i>			</span>
-						<span class="elementor-button-text">SIM! EU QUERO AUMENTAR O MEU SCORE</span>
+						<span class="elementor-button-text">Sim! eU qUERO aUMENTAR O MEU SCORE</span>
 		</span>
 					</a>
 		</div>
@@ -222,928 +291,810 @@ src="https://www.facebook.com/tr?id=1754076601421769&ev=PageView&noscript=1"
 								</div>
 					</div>
 		</section>
-				<div class="elementor-element elementor-element-6103bf16 elementor-align-center elementor-hidden-desktop elementor-hidden-tablet elementor-invisible elementor-widget elementor-widget-button" data-id="6103bf16" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#oferta" class="elementor-button-link elementor-button elementor-size-xl" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-arrow-down"></i>			</span>
-						<span class="elementor-button-text">SIM! EU QUERO AUMENTAR O MEU SCORE</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2d41ada2 elementor-widget elementor-widget-spacer" data-id="2d41ada2" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3c33b48b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c33b48b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b6bcb0d" data-id="2b6bcb0d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2384ddf5 elementor-hidden-phone elementor-widget elementor-widget-spacer" data-id="2384ddf5" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5eaa36e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5eaa36e9" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2855a570 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2855a570" data-element_type="section" id="quemfez" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fc0ac79" data-id="3fc0ac79" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71711d25" data-id="71711d25" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f0a826 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-text-editor" data-id="f0a826" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-6f71e91e elementor-widget elementor-widget-heading" data-id="6f71e91e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;">Ao longo desses anos eu aprendi exatamente o que você precisa para conseguir que o seu crédito seja aprovado e o que você jamais deve fazer se quiser continuar com um score baixo e com crédito queimado no mercado.</span></p><p><span style="font-weight: 400;">Eu sei como você pode sofrer com um score baixo e sei como são os juros abusivos que cobram de você, por isso que estou disposto a revelar tudo o que é necessário fazer para você nunca mais passar vergonha quando fizer um pedido de crédito.</span></p></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-71990172 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-text-editor" data-id="71990172" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;"><strong>Guilherme Oliveira</strong> &#8211; Analista de Crédito</span></p></div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3153861e" data-id="3153861e" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-52f6f48e elementor-invisible elementor-widget elementor-widget-image" data-id="52f6f48e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="731" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/squeri-head-731x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/squeri-head-731x1024.jpg 731w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/squeri-head-214x300.jpg 214w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/squeri-head-768x1075.jpg 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/squeri-head.jpg 857w" sizes="(max-width: 731px) 100vw, 731px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3a268ff1 elementor-hidden-desktop elementor-hidden-tablet elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3a268ff1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;">Ao longo desses anos eu aprendi exatamente o que você precisa para conseguir que o seu crédito seja aprovado e o que você jamais deve fazer se quiser continuar com um score baixo e com crédito queimado no mercado.</span></p><p><span style="font-weight: 400;">Eu sei como você pode sofrer com um score baixo e sei como são os juros abusivos que cobram de você, por isso que estou disposto a revelar tudo o que é necessário fazer para você nunca mais passar vergonha quando fizer um pedido de crédito.</span></p></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-46557f61 elementor-hidden-desktop elementor-hidden-tablet elementor-invisible elementor-widget elementor-widget-text-editor" data-id="46557f61" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><span style="font-weight: 400;"><strong>Guilherme Oliveira</strong> &#8211; Analista de Crédito</span></p></div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-7b815723 elementor-widget elementor-widget-spacer" data-id="7b815723" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3949d792 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3949d792" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42e1bf9f" data-id="42e1bf9f" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-77904500 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="77904500" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">NA MÍDIA</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a7f873a elementor-widget elementor-widget-heading" data-id="a7f873a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">O Guia do Score já foi assunto em vários meios de comunicação e emissoras:</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3634d0c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3634d0c2" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4ca79021" data-id="4ca79021" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-10c5da5 elementor-widget elementor-widget-image" data-id="10c5da5" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="684" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-1024x876.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-1024x876.png 1024w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-300x257.png 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-768x657.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-1536x1314.png 1536w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/r7-logo-2048x1752.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1f2d1f9" data-id="1f2d1f9" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1300d57f elementor-widget elementor-widget-image" data-id="1300d57f" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="481" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-1024x616.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-1024x616.png 1024w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-300x180.png 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-768x462.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-1536x924.png 1536w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/g1-logo-2048x1232.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4176c595" data-id="4176c595" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-66b46266 elementor-widget elementor-widget-image" data-id="66b46266" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="300" height="185" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/jornal-nacional-logo-518D23198E-seeklogo.com_.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-757803d5 elementor-widget elementor-widget-spacer" data-id="757803d5" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-71272077 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71272077" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-32cd42d8" data-id="32cd42d8" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-307b9f43 elementor-invisible elementor-widget elementor-widget-heading" data-id="307b9f43" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">O que as pessoas estão falando sobre<div> o Guia do Score em 7 Dias…</div></h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-307930c1 elementor-invisible elementor-widget elementor-widget-heading" data-id="307930c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Veja só alguns relatos.</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-656de475 elementor-hidden-phone elementor-widget elementor-widget-spacer" data-id="656de475" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2c7d321 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2c7d321" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-4be9b184" data-id="4be9b184" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-58066df0 elementor-widget elementor-widget-image" data-id="58066df0" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="800" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.03-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.03.jpeg 1024w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.03-300x300.jpeg 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.03-150x150.jpeg 150w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.03-768x768.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3002af06 elementor-widget elementor-widget-heading" data-id="3002af06" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">William Soares</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5bff4c8e elementor-widget elementor-widget-heading" data-id="5bff4c8e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Rio de Janeiro - RJ</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6227de88 elementor-widget elementor-widget-html" data-id="6227de88" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<audio controls="">
-            <source src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP-2-HOMEM-WILLIAM-online-audio-converter.com_.mp3" type="audio/mpeg">
-</audio>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-796f6647" data-id="796f6647" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-37a2a7 elementor-widget elementor-widget-spacer" data-id="37a2a7" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-556cf2cd" data-id="556cf2cd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-cf8066a elementor-widget elementor-widget-image" data-id="cf8066a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="800" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.56-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.56.jpeg 1024w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.56-300x300.jpeg 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.56-150x150.jpeg 150w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-14-at-23.03.56-768x768.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6a5b2296 elementor-widget elementor-widget-heading" data-id="6a5b2296" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Aline Miranda</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6a32f5e3 elementor-widget elementor-widget-heading" data-id="6a32f5e3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Florianópolis - SC</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3a196406 elementor-widget elementor-widget-html" data-id="3a196406" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<audio controls="">
-    <source src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP-3-MULHER-online-audio-converter.com_.mp3" type="audio/mpeg">
-</audio>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5ca8473b" data-id="5ca8473b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-337ad190 elementor-widget elementor-widget-spacer" data-id="337ad190" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-7db4cf0d" data-id="7db4cf0d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-72eff935 elementor-widget elementor-widget-image" data-id="72eff935" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="800" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/112.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/112.jpg 935w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/112-300x300.jpg 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/112-150x150.jpg 150w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/112-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5f47421a elementor-widget elementor-widget-heading" data-id="5f47421a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Fernando de Souza</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c900166 elementor-widget elementor-widget-heading" data-id="c900166" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">São Paulo - SP</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-63aa8f64 elementor-widget elementor-widget-html" data-id="63aa8f64" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			<audio controls="">
-    <source src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP-1-HOMEM-online-audio-converter.com_.mp3" type="audio/mpeg">
-</audio>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-1f5d96af elementor-widget elementor-widget-spacer" data-id="1f5d96af" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-30a839a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="30a839a8" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4c3ad473 elementor-hidden-phone" data-id="4c3ad473" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3404f3d0 elementor-widget elementor-widget-image" data-id="3404f3d0" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-71e7354b elementor-hidden-phone" data-id="71e7354b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-45a8c335 elementor-widget elementor-widget-image" data-id="45a8c335" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2f69e966 elementor-hidden-phone" data-id="2f69e966" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5376f6fd elementor-widget elementor-widget-image" data-id="5376f6fd" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-423bf847 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="423bf847" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5548ec3e elementor-hidden-phone" data-id="5548ec3e" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-7f3817e8 elementor-widget elementor-widget-image" data-id="7f3817e8" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-37ff8bfa elementor-hidden-phone" data-id="37ff8bfa" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-37be9d77 elementor-widget elementor-widget-image" data-id="37be9d77" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c7b059e elementor-hidden-phone" data-id="6c7b059e" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-338059df elementor-widget elementor-widget-image" data-id="338059df" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="598" height="1024" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6-598x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6-598x1024.png 598w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6-175x300.png 175w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6-768x1314.png 768w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6-898x1536.png 898w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6.png 1080w" sizes="(max-width: 598px) 100vw, 598px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-7ec24ea2 elementor-arrows-position-outside elementor-hidden-desktop elementor-hidden-tablet elementor-pagination-position-outside elementor-invisible elementor-widget elementor-widget-image-carousel" data-id="7ec24ea2" data-element_type="widget" data-settings="{&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
-			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
-				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP1.png" alt="DEP1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP2.png" alt="DEP2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP3.png" alt="DEP3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP4.png" alt="DEP4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP5.png" alt="DEP5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/DEP6.png" alt="DEP6" /></figure></div>			</div>
-												<div class="swiper-pagination"></div>
-													<div class="elementor-swiper-button elementor-swiper-button-prev">
-						<i class="eicon-chevron-left" aria-hidden="true"></i>
-						<span class="elementor-screen-only">Anterior</span>
-					</div>
-					<div class="elementor-swiper-button elementor-swiper-button-next">
-						<i class="eicon-chevron-right" aria-hidden="true"></i>
-						<span class="elementor-screen-only">Próximo</span>
-					</div>
-									</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1eb6bb31 elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="1eb6bb31" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.3000000000000000444089209850062616169452667236328125}},&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;ha_floating_fx&quot;:&qquot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#oferta" class="elementor-button-link elementor-button elementor-size-xl" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-arrow-down"></i>			</span>
-						<span class="elementor-button-text">SIM! EU QUERO AUMENTAR O MEU SCORE</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-73f0e3ed elementor-widget elementor-widget-spacer" data-id="73f0e3ed" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-13051edc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13051edc" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21478c17" data-id="21478c17" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-79656560 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-heading" data-id="79656560" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">E VOCÊ AINDA GANHA + 4 BÔNUS<div> EXCLUSIVOS E INÉDITOS</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-66471d38 elementor-hidden-desktop elementor-hidden-tablet elementor-invisible elementor-widget elementor-widget-heading" data-id="66471d38" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">E VOCÊ AINDA GANHA + 4 BÔNUS EXCLUSIVOS E INÉDITOS</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-758b421d elementor-widget elementor-widget-spacer" data-id="758b421d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-530f3adf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="530f3adf" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7bdfb559" data-id="7bdfb559" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-15928422 elementor-widget elementor-widget-image" data-id="15928422" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="410" height="570" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191928.309.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191928.309.png 410w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191928.309-216x300.png 216w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-d750fbd elementor-widget elementor-widget-heading" data-id="d750fbd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Os 5 Cartões de Crédito Mais Fáceis de Serem Aprovados</h2>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-222ae250" data-id="222ae250" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-70ee8187 elementor-widget elementor-widget-spacer" data-id="70ee8187" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2598591" data-id="2598591" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-a1547eb elementor-widget elementor-widget-image" data-id="a1547eb" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="410" height="570" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191950.932.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191950.932.png 410w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T191950.932-216x300.png 216w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-123bb936 elementor-widget elementor-widget-heading" data-id="123bb936" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Técnica Secreta para Financiar Seu Veículo Sem <DIV>Depender Dos Bancos</h2>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-848ba57 elementor-widget elementor-widget-spacer" data-id="848ba57" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-600037b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="600037b7" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1e2228c" data-id="1e2228c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-755542f4 elementor-widget elementor-widget-image" data-id="755542f4" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="410" height="570" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T193027.047.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T193027.047.png 410w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T193027.047-216x300.png 216w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3fba4abd elementor-widget elementor-widget-heading" data-id="3fba4abd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Os 7 Elementos Que Mais Abaixam Seu Score</h2>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-32e9f2e0" data-id="32e9f2e0" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3a85ce59 elementor-widget elementor-widget-spacer" data-id="3a85ce59" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1e780b1a" data-id="1e780b1a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-551a3913 elementor-widget elementor-widget-image" data-id="551a3913" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="410" height="570" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T192036.850.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T192036.850.png 410w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/oie_transparent-2020-10-17T192036.850-216x300.png 216w" sizes="(max-width: 410px) 100vw, 410px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-53eaadca elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-heading" data-id="53eaadca" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Como Renegociar as suas Dívidas e Sair do SCPC Sem Pagar Juros</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-28c3ebbe elementor-hidden-phone elementor-widget elementor-widget-heading" data-id="28c3ebbe" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Como Renegociar as suas Dívidas e Sair do SCPC Sem Pagar Juros</h2>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-33393695 elementor-widget elementor-widget-spacer" data-id="33393695" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6a1c8622 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a1c8622" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:811,&quot;url&quot;:&quot;https:\/\/guiadoscore7dias.com\/wp-content\/uploads\/2020\/10\/2.png&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1864e5fb" data-id="1864e5fb" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5e4b0968 elementor-hidden-phone elementor-widget elementor-widget-spacer" data-id="5e4b0968" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-231532b elementor-absolute elementor-widget elementor-widget-menu-anchor" data-id="231532b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="menu-anchor.default">
-				<div class="elementor-widget-container">
-					<div id="oferta" class="elementor-menu-anchor"></div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1116f7e7 elementor-invisible elementor-widget elementor-widget-heading" data-id="1116f7e7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">ESSA É A SUA ÚNICA CHANCE DE TER ACESSO AO <span style="text-decoration: underline;">GUIA DO SCORE EM 7 DIAS</span> DE:</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4f577a14 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f577a14" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-47c3d326" data-id="47c3d326" data-element_type="column">
-			<div class="elementor-column-wrap">
-							<div class="elementor-widget-wrap">
-								</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4da9cf56 elementor-invisible" data-id="4da9cf56" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3707c38b elementor-widget elementor-widget-price-table" data-id="3707c38b" data-element_type="widget" data-widget_type="price-table.default">
-				<div class="elementor-widget-container">
-			
-		<div class="elementor-price-table">
-							<div class="elementor-price-table__header">
-											<h3 class="elementor-price-table__heading"><del datetime="2020-10-16T15:46:27+00:00">R$197</del></h3>
-					
-											<span class="elementor-price-table__subheading">por apenas 12x de:</span>
-									</div>
-			
-			<div class="elementor-price-table__price">
-								<span class="elementor-price-table__currency elementor-currency--before">R$</span>									<span class="elementor-price-table__integer-part">9</span>
-				
-									<div class="elementor-price-table__after-price">
-						<span class="elementor-price-table__fractional-part">,74</span>
+			<p class="elementor-heading-title elementor-size-default"><blockquote>"Eu trabalhei durante 15 anos em um banco e sei exatamente tudo o que você precisa fazer para aumentar o seu score.."
+<p><br>
 
-											</div>
-				
-				
-							</div>
-
-							<ul class="elementor-price-table__features-list">
-											<li class="elementor-repeater-item-0ea9959">
-							<div class="elementor-price-table__feature-inner">
-																									<span >
-										ou <b>R$97,00</b> à vista									</span>
-																</div>
-						</li>
-											<li class="elementor-repeater-item-5ec8112">
-							<div class="elementor-price-table__feature-inner">
-																									<span >
-										Menos de 0,32 centavos por dia									</span>
-																</div>
-						</li>
-									</ul>
-			
-							<div class="elementor-price-table__footer">
-											<a class="elementor-price-table__button elementor-button elementor-size-md" href="#">COMPRAR AGORA</a>
-					
-									</div>
+<strong>João Almeida</strong> – Analista de Crédito, </blockquote></p>		</div>
+				</div>
+						</div>
 					</div>
-
-					<div class="elementor-price-table__ribbon elementor-ribbon-left">
-				<div class="elementor-price-table__ribbon-inner">PROMOÇÃO</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7caad4a2" data-id="7caad4a2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3d18bc04 elementor-widget elementor-widget-image" data-id="3d18bc04" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://guiadoscore.com.br/wp-content/uploads/2020/02/5e3584a08ad01-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/02/5e3584a08ad01-150x150.png 150w, https://guiadoscore.com.br/wp-content/uploads/2020/02/5e3584a08ad01-300x300.png 300w, https://guiadoscore.com.br/wp-content/uploads/2020/02/5e3584a08ad01-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-135673e6" data-id="135673e6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-190e49af elementor-widget elementor-widget-text-editor" data-id="190e49af" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><blockquote><p>Eu sei como você pode sofrer com um score baixo e sei os juros abusivos que cobram de você e é por isso que estou disposto a revelar tudo o que é necessário fazer para vocÊ nunca mais passar vergonha ao ter um pedido de crédito negado.</p></blockquote></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1a8caf6a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a8caf6a" data-element_type="section" id="seraqueebom" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-330d24d0" data-id="330d24d0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-68e65875 elementor-widget elementor-widget-heading" data-id="68e65875" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">O que dizem sobre o Guia do Score?</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-25cf1edf elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="25cf1edf" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2159fabd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2159fabd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-31a7ffe5" data-id="31a7ffe5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3dd014a7 elementor-widget elementor-widget-image" data-id="3dd014a7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://guiadoscore.com.br/wp-content/uploads/2020/02/juliana-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/02/juliana-150x150.jpg 150w, https://guiadoscore.com.br/wp-content/uploads/2020/02/juliana-300x300.jpg 300w, https://guiadoscore.com.br/wp-content/uploads/2020/02/juliana-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3ce03562" data-id="3ce03562" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-15300341 elementor-blockquote--skin-quotation elementor-blockquote--align-left elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="15300341" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				Eu jamais imaginei que ia conseguir aumentar 380 pontos em meu score em apenas 9 dias, foi incrível.			</p>
+							<footer>
+											<cite class="elementor-blockquote__author">Juliana Oliveira</cite>
+														</footer>
+					</blockquote>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-69afdefe elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="69afdefe" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d324787 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d324787" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4895a73" data-id="4895a73" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a1d62e7 elementor-widget elementor-widget-image" data-id="a1d62e7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://guiadoscore.com.br/wp-content/uploads/2020/02/carlos-martins-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/02/carlos-martins-150x150.jpg 150w, https://guiadoscore.com.br/wp-content/uploads/2020/02/carlos-martins-300x300.jpg 300w, https://guiadoscore.com.br/wp-content/uploads/2020/02/carlos-martins-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c0c2d45" data-id="c0c2d45" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6e1ea21 elementor-blockquote--skin-quotation elementor-blockquote--align-left elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="6e1ea21" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				Cara, que coisa show é este guia, nem li todo o conteúdo e já financiei um Ford Ka 2017 novinho			</p>
+							<footer>
+											<cite class="elementor-blockquote__author">Carlos Alberto</cite>
+														</footer>
+					</blockquote>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-54e65584 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="54e65584" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7d1eeeb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d1eeeb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d3ef5a0" data-id="d3ef5a0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f6996cb elementor-widget elementor-widget-image" data-id="f6996cb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="https://guiadoscore.com.br/wp-content/uploads/2020/02/fernanda-martins-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/02/fernanda-martins-150x150.jpg 150w, https://guiadoscore.com.br/wp-content/uploads/2020/02/fernanda-martins-300x300.jpg 300w, https://guiadoscore.com.br/wp-content/uploads/2020/02/fernanda-martins-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7da148b" data-id="7da148b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-61034bd elementor-blockquote--skin-quotation elementor-blockquote--align-left elementor-blockquote--button-color-official elementor-widget elementor-widget-blockquote" data-id="61034bd" data-element_type="widget" data-widget_type="blockquote.default">
+				<div class="elementor-widget-container">
+					<blockquote class="elementor-blockquote">
+			<p class="elementor-blockquote__content">
+				Vale cada centavo, eu jamais imaginei que podia aumentar o meu score só ligando no SPC e seguindo o que o Guia fala.			</p>
+							<footer>
+											<cite class="elementor-blockquote__author">Fernanda Martins</cite>
+														</footer>
+					</blockquote>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-20f08f40 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="20f08f40" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4e7f3055 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e7f3055" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-25217ede" data-id="25217ede" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-685312da elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="685312da" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/EszgUWYN_ts?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-452cc075" data-id="452cc075" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-54a63330 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="54a63330" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/u4MhXPFfThQ?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-86b5970 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="86b5970" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ebb2245 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ebb2245" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-baecc39" data-id="baecc39" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3b2214d elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="3b2214d" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/mN5_Lpbl88M?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-385c6d7" data-id="385c6d7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a4b0914 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="a4b0914" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/8OrFiM3QLZ4?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-c550f96 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c550f96" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bb0ce43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bb0ce43" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9708725" data-id="9708725" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4021f2d elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="4021f2d" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/R54botOOUDI?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d864061" data-id="d864061" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1777531 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="1777531" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Player de Vídeo youtube" src="https://www.youtube.com/embed/FpviD4OZ6qg?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68047c83 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68047c83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d738bf0" data-id="1d738bf0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-674ecaea elementor-align-justify elementor-widget elementor-widget-button" data-id="674ecaea" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://app.monetizze.com.br/checkout/KLA92054" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Sim! eU qUERO aUMENTAR O MEU SCORE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4a2f1dd elementor-widget elementor-widget-image" data-id="4a2f1dd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="599" height="95" src="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png 599w, https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1-300x48.png 300w" sizes="(max-width: 599px) 100vw, 599px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e2a658 elementor-widget elementor-widget-image" data-id="6e2a658" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="493" height="50" src="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png 493w, https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento-300x30.png 300w" sizes="(max-width: 493px) 100vw, 493px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-71eb681d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71eb681d" data-element_type="section" id="bonus" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-20d8e550" data-id="20d8e550" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7779842a elementor-widget elementor-widget-heading" data-id="7779842a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">E vocÊ ainda ganha + 4 bônus exclusivos e inéditos</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3ecd86ae elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3ecd86ae" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-13620d1c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13620d1c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2fd7aa15" data-id="2fd7aa15" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-51b45b81 elementor-widget elementor-widget-image" data-id="51b45b81" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="734" height="800" src="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-001.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-001.png 734w, https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-001-275x300.png 275w" sizes="(max-width: 734px) 100vw, 734px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bd0b483 elementor-widget elementor-widget-heading" data-id="1bd0b483" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">#Bônus 1</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5f67469f elementor-widget elementor-widget-heading" data-id="5f67469f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Os 5 Cartões de Crédito que são mais fáceis de conseguir</p>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3dc6be8" data-id="3dc6be8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7d6fa8ce elementor-widget elementor-widget-image" data-id="7d6fa8ce" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="734" height="800" src="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-002.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-002.png 734w, https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-002-275x300.png 275w" sizes="(max-width: 734px) 100vw, 734px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e9ac820 elementor-widget elementor-widget-heading" data-id="5e9ac820" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">#Bônus 2</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4bdff99 elementor-widget elementor-widget-heading" data-id="4bdff99" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">6 Técnicas Secretas Para Financiar um veículo sem usar o banco</p>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-59d65a83 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="59d65a83" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-19258d50" data-id="19258d50" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7834fe10 elementor-widget elementor-widget-image" data-id="7834fe10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="734" height="800" src="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-003.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-003.png 734w, https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-003-275x300.png 275w" sizes="(max-width: 734px) 100vw, 734px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-29dee563 elementor-widget elementor-widget-heading" data-id="29dee563" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">#Bônus 3</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6635ab50 elementor-widget elementor-widget-heading" data-id="6635ab50" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Os 7 Piores Elementos que mais baixam o seu score de crédito.</p>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-575eb8b2" data-id="575eb8b2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1231f83d elementor-widget elementor-widget-image" data-id="1231f83d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="734" height="800" src="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-0004.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-0004.png 734w, https://guiadoscore.com.br/wp-content/uploads/2020/10/bonus-0004-275x300.png 275w" sizes="(max-width: 734px) 100vw, 734px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b572a2e elementor-widget elementor-widget-heading" data-id="b572a2e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">#Bônus 4</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6dcbc080 elementor-widget elementor-widget-heading" data-id="6dcbc080" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">O Guia Passo a Passo para Renegociar as suas Dívidas Sem Pagar Juros</p>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bd1e704 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd1e704" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b7e13c8" data-id="2b7e13c8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4125256d elementor-widget elementor-widget-heading" data-id="4125256d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Perguntas e Respostas</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-23be18e6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="23be18e6" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6bcab790 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6bcab790" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-71c53bc3" data-id="71c53bc3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1ef0c280 elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="1ef0c280" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3dee5f8e elementor-widget elementor-widget-heading" data-id="3dee5f8e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">EM QUANTO TEMPO RECEBO ACESSO AO GUIA DO SCORE?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f89a4f1 elementor-widget elementor-widget-text-editor" data-id="f89a4f1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Se você pagar via cartão de crédito, o seu acesso é imediato e via boleto o recebimento é em até 48 horas após o pagamento.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-70013281" data-id="70013281" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7887ae57 elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="7887ae57" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2cfd30e2 elementor-widget elementor-widget-heading" data-id="2cfd30e2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">DEMORA QUANTO TEMPO PARA MEU SCORE AUMENTAR?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-59c9b846 elementor-widget elementor-widget-text-editor" data-id="59c9b846" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>O prazo médio para seu score aumentar é de 7 a 15 dias, a maioria das pessoas conseguem em até 7 dias. </p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-631e2a9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="631e2a9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-46ccd76" data-id="46ccd76" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4d1226d elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="4d1226d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f6b9e3f elementor-widget elementor-widget-heading" data-id="f6b9e3f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">EU REALMENTE VOU CONSEGUIR 750 PONTOS NO SCORE?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b1bf0a1 elementor-widget elementor-widget-text-editor" data-id="b1bf0a1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>A grande maioria das pessoas consegue ter esse resultado ou similar. Mas a nossa garantia é que você vai conseguir crédito no mercado novamente.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-48b5be1" data-id="48b5be1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-92e5bed elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="92e5bed" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-596ee90 elementor-widget elementor-widget-heading" data-id="596ee90" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">EU PRECISO PAGAR ALGO PARA O MEU SCORE SUBIR?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-523edd3 elementor-widget elementor-widget-text-editor" data-id="523edd3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Não. Além do valor do Guia do Score, você não vai precisar gastar nem um centavo a mais.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3b02d37 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b02d37" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4f1a554" data-id="4f1a554" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e2bd832 elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="e2bd832" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9f1ebc6 elementor-widget elementor-widget-heading" data-id="9f1ebc6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">ISSO É MESMO SEGURO?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5fe93a4 elementor-widget elementor-widget-text-editor" data-id="5fe93a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Com certeza. O Guia do Score é um produto licenciado pelo maior site de Direitos do Consumidor no Brasil (www.meudireitopessoal.com.br ) com mais de 10 anos no ar.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7251d56" data-id="7251d56" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c442f3d elementor-widget-divider--view-line_icon elementor-view-stacked elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="c442f3d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-question"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-03d5f96 elementor-widget elementor-widget-heading" data-id="03d5f96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">E SE EU NÃO GOSTAR?</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e407444 elementor-widget elementor-widget-text-editor" data-id="e407444" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Se você acha que ter um score alto não é algo que você queira, não se preocupe, basta solicitar o reembolso que devolvemos 100% do valor pago, imediatamente.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d2ed36b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d2ed36b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d1dfbbb" data-id="d1dfbbb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-29ccc64f elementor-widget elementor-widget-text-editor" data-id="29ccc64f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>ESSA É A SUA ÚNICA CHANCE DE TER ACESSO AO GUIA DO SCORE POR APENAS</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6013bd76 elementor-widget elementor-widget-heading" data-id="6013bd76" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-small"><i>12 x R$ 9,74 </i></span>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-716e48d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="716e48d6" data-element_type="section" id="comprar">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-23647ebc" data-id="23647ebc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5848bb86 elementor-widget elementor-widget-image" data-id="5848bb86" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="250" height="250" src="https://guiadoscore.com.br/wp-content/uploads/2020/09/devolucaogarantida.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/09/devolucaogarantida.png 250w, https://guiadoscore.com.br/wp-content/uploads/2020/09/devolucaogarantida-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-36fce11e elementor-widget elementor-widget-text-editor" data-id="36fce11e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>O <strong class="strong">RISCO é TODO MEU</strong>, se em até <span style="color: #d82b80;">7 DIAS o seu score não subir</span>, eu irei lhe devolver o dobro do valor pago. Sem enrolação e sem frescura. Direto e reto. </p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3169bcab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3169bcab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-23d1078d" data-id="23d1078d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-492ed95b elementor-align-justify elementor-widget elementor-widget-button" data-id="492ed95b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://app.monetizze.com.br/checkout/KLA92054" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Comprar agora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2ebba8ea elementor-widget elementor-widget-heading" data-id="2ebba8ea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">* acesso liberado imediatamente</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f6a9b2c elementor-widget elementor-widget-image" data-id="f6a9b2c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="599" height="95" src="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1.png 599w, https://guiadoscore.com.br/wp-content/uploads/2020/08/selos-1-300x48.png 300w" sizes="(max-width: 599px) 100vw, 599px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-24bc399 elementor-widget elementor-widget-image" data-id="24bc399" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="493" height="50" src="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento.png 493w, https://guiadoscore.com.br/wp-content/uploads/2020/06/formas-de-pagamento-300x30.png 300w" sizes="(max-width: 493px) 100vw, 493px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+				<div data-elementor-type="footer" data-elementor-id="591" class="elementor elementor-591 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-section-wrap">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-2d9f158b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d9f158b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fbd8a86" data-id="7fbd8a86" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-66a3117e elementor-widget elementor-widget-image" data-id="66a3117e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="624" height="214" src="https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1.png 624w, https://guiadoscore.com.br/wp-content/uploads/2020/01/logo-624x214-1-300x103.png 300w" sizes="(max-width: 624px) 100vw, 624px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c23d232 elementor-widget elementor-widget-text-editor" data-id="5c23d232" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p> <a class="link-rodape" href="https://guiadoscore.com.br/privacidade">Política de Privacidade</a>  |  <a href="contato@guiadoscore.com.br">contato@guiadoscore.com.br</a></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-225bfc72 elementor-widget elementor-widget-text-editor" data-id="225bfc72" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Elaborado por especialistas. o <strong>Guia do Score</strong> foi desenvolvido em parceria da Editora Curta, juntamente com seu autor e é comercializado apenas pela Colina Digital ( www.colinadigital.com.br ) e os seus afiliados, sendo proibido a distribuição e comercialização do mesmo através de outros meios. É importante salientar que o conteúdo de nosso guia é exclusivamente informativo e que os resultados finais podem variar de acordo com a sua dedicação em seguir o que estamos propostos a ensinar e também de acordo com fatores externos que não possui vínculo diretamente a nós.&nbsp;</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		
+<img alt='css.php' src="https://guiadoscore.com.br/wp-content/plugins/cookies-for-comments/css.php?k=26a3d462de7d3f1146e5977526a34ac0&amp;o=i&amp;t=882759471" width='1' height='1' />			<div class="joinchat joinchat--right joinchat--dark-auto" data-settings='{"telephone":"5511941017109","mobile_only":false,"button_delay":5,"whatsapp_web":false,"message_views":2,"message_delay":10,"message_badge":true,"message_send":"Olá, eu tenho dúvidas sobre o Guia do Score","message_hash":"d9d45179"}'>
+				<div class="joinchat__button">
+					<div class="joinchat__button__open"></div>
+																<div class="joinchat__button__sendtext">Clique Aqui</div>
+																<svg class="joinchat__button__send" viewbox="0 0 400 400" stroke-linecap="round" stroke-width="33">
+							<path class="joinchat_svg__plain" d="M168.83 200.504H79.218L33.04 44.284a1 1 0 0 1 1.386-1.188L365.083 199.04a1 1 0 0 1 .003 1.808L34.432 357.903a1 1 0 0 1-1.388-1.187l29.42-99.427"/>
+							<path class="joinchat_svg__chat" d="M318.087 318.087c-52.982 52.982-132.708 62.922-195.725 29.82l-80.449 10.18 10.358-80.112C18.956 214.905 28.836 134.99 81.913 81.913c65.218-65.217 170.956-65.217 236.174 0 42.661 42.661 57.416 102.661 44.265 157.316"/>
+						</svg>
+																<div class="joinchat__badge">1</div>
+																<div class="joinchat__tooltip"><div>Precisa de ajuda?</div></div>
+									</div>
+									<div class="joinchat__box">
+						<div class="joinchat__header">
+														<div class="joinchat__close" aria-label="Close"></div>
+						</div>
+						<div class="joinchat__box__scroll">
+							<div class="joinchat__box__content">
+								<div class="joinchat__message">Ei.<br>Quer descobrir como o Guia do Score pode aumentar o seu score?</div>							</div>
+						</div>
+					</div>
+								<svg height="0" width="0"><defs><clipPath id="joinchat__message__peak"><path d="M17 25V0C17 12.877 6.082 14.9 1.031 15.91c-1.559.31-1.179 2.272.004 2.272C9.609 18.182 17 18.088 17 25z"/></clipPath></defs></svg>
 			</div>
-					</div>
-				</div>
-				<div class="elementor-element elementor-element-58abbf9a elementor-widget elementor-widget-image" data-id="58abbf9a" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="800" height="120" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/compra-segura-vetor-1-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/compra-segura-vetor-1-1.png 1000w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/compra-segura-vetor-1-1-300x45.png 300w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/compra-segura-vetor-1-1-768x115.png 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-4262898f elementor-align-center elementor-widget elementor-widget-button" data-id="4262898f" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://app.monetizze.com.br/checkout/KDN143172" class="elementor-button-link elementor-button elementor-size-xl" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">COMPRAR AGORA!</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3b5d34fd" data-id="3b5d34fd" data-element_type="column">
-			<div class="elementor-column-wrap">
-							<div class="elementor-widget-wrap">
-								</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2d57ae00 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d57ae00" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
-					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
-	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
-	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
-	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
-</svg>		</div>
-					<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bef61b6" data-id="bef61b6" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-222a8aca elementor-invisible elementor-widget elementor-widget-image" data-id="222a8aca" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="396" height="389" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/selo-garantia-7-dias-small.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/selo-garantia-7-dias-small.png 396w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/selo-garantia-7-dias-small-300x295.png 300w" sizes="(max-width: 396px) 100vw, 396px" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5811a053 elementor-invisible elementor-widget elementor-widget-heading" data-id="5811a053" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">O <b>RISCO É TODO MEU,</b> se em até 
-7 DIAS o seu<div> score não subir, eu irei lhe devolver o dobro do valor<div> pago. Sem enrolação e sem frescura. Direto e reto.</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ef3b731 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ef3b731" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-26f0799c elementor-invisible" data-id="26f0799c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-74535643 elementor-widget elementor-widget-heading" data-id="74535643" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">OFERTA ENCERRA EM...</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5601cebe elementor-countdown--label-block elementor-widget elementor-widget-countdown" data-id="5601cebe" data-element_type="widget" data-widget_type="countdown.default">
-				<div class="elementor-widget-container">
-					<div data-evergreen-interval="1500" class="elementor-countdown-wrapper" data-date="">
-			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours"></span> <span class="elementor-countdown-label">Horas</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes"></span> <span class="elementor-countdown-label">Minutos</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds"></span> <span class="elementor-countdown-label">Segundos</span></div>		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-6f8046a4 elementor-widget elementor-widget-spacer" data-id="6f8046a4" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1b604f4e elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="1b604f4e" data-element_type="widget" data-settings="{&quot;ha_floating_fx_scale_y&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1.100000000000000088817841970012523233890533447265625,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}},&quot;ha_floating_fx_scale_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:600,&quot;sizes&quot;:[]},&quot;ha_floating_fx_scale_delay&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;ha_floating_fx&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_toggle&quot;:&quot;yes&quot;,&quot;ha_floating_fx_scale_x&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;from&quot;:1,&quot;to&quot;:1.1999999999999999555910790149937383830547332763671875}}}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://app.monetizze.com.br/checkout/KDN143172" class="elementor-button-link elementor-button elementor-size-xl" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">COMPRAR AGORA!</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-33524416 elementor-widget elementor-widget-spacer" data-id="33524416" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-c3f48f3 elementor-widget elementor-widget-image" data-id="c3f48f3" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="300" height="247" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/selo-patenteado-300x247-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-56a2c0f3 elementor-widget elementor-widget-spacer" data-id="56a2c0f3" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2d4a88e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d4a88e7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-76202d99" data-id="76202d99" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5865dfcb elementor-invisible elementor-widget elementor-widget-text-editor" data-id="5865dfcb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">PERGUNTAS FREQUENTES</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-56267499 elementor-invisible elementor-widget elementor-widget-toggle" data-id="56267499" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="toggle.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-toggle" role="tablist">
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1441" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1441">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">EM QUANTO TEMPO RECEBO ACESSO AO GUIA DO SCORE EM 7 DIAS?</a>
-					</div>
-					<div id="elementor-tab-content-1441" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1441"><p><span style="font-weight: 400;">Se você pagar via cartão de crédito, o seu acesso é imediato e via boleto o recebimento é em até 48 horas após o pagamento.</span></p></div>
-				</div>
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1442" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1442">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">EU REALMENTE VOU CONSEGUIR 900 PONTOS NO SCORE?</a>
-					</div>
-					<div id="elementor-tab-content-1442" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1442"><p><span style="font-weight: 400;">A grande maioria das pessoas que segue os 4 passos consegue ter esse resultado ou similar. Mas a nossa garantia é que você vai conseguir crédito no mercado novamente.</span></p></div>
-				</div>
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1443" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1443">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">ISSO É MESMO SEGURO?</a>
-					</div>
-					<div id="elementor-tab-content-1443" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1443"><p><span style="font-weight: 400;">Com certeza. O Guia do Score em 7 Dias é um produto licenciado pelo maior site de Direitos do Consumidor no Brasil com mais de 12 anos no ar.</span></p></div>
-				</div>
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1444" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1444">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">O MEU SCORE VAI SUBIR EM AUTOMÁTICO?</a>
-					</div>
-					<div id="elementor-tab-content-1444" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1444"><p><span style="font-weight: 400;">Não, o seu score não vai subir em automático. Para o seu score subir precisa seguir os 4 passos que revelamos dentro do nosso Guia.</span></p></div>
-				</div>
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1445" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-1445">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">EU PRECISO PAGAR ALGO PARA O MEU SCORE SUBIR?</a>
-					</div>
-					<div id="elementor-tab-content-1445" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1445"><p><span style="font-weight: 400;">Não. Além do valor do Guia do Score em 7 Dias, você não vai precisar gastar nem um centavo a mais.</span></p></div>
-				</div>
-							<div class="elementor-toggle-item">
-					<div id="elementor-tab-title-1446" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-1446">
-												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
-															<span class="elementor-toggle-icon-closed"><i class="fas fa-plus"></i></span>
-								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-minus"></i></span>
-													</span>
-												<a href="" class="elementor-toggle-title">E SE EU NÃO GOSTAR DO CONTEÚDO?</a>
-					</div>
-					<div id="elementor-tab-content-1446" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-1446"><p><span style="font-weight: 400;">Se você acha que ter um score alto não é algo que você queira, não se preocupe, basta solicitar o reembolso que devolvemos 100% do valor pago, imediatamente dentro do prazo de 7 dias</span></p></div>
-				</div>
-					</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-1797205c elementor-widget elementor-widget-heading" data-id="1797205c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">® 2020 GUIA DO SCORE 7 DIAS | TODOS OS DIREITOS RESERVADOS</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4fcebda3 elementor-widget elementor-widget-image" data-id="4fcebda3" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="384" height="144" src="https://guiadoscore7dias.com/wp-content/uploads/2020/10/SELOS.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://guiadoscore7dias.com/wp-content/uploads/2020/10/SELOS.png 384w, https://guiadoscore7dias.com/wp-content/uploads/2020/10/SELOS-300x113.png 300w" sizes="(max-width: 384px) 100vw, 384px" />											</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-						</div>
-					</div>
-		<script type='text/javascript' src='//cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js' id='d3-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/happy-elementor-addons/assets/vendor/anime/lib/anime.min.js?ver=2.14.0' id='anime-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
-<script type='text/javascript' id='cb70d11b8-js-extra'>
-/* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/guiadoscore7dias.com\/wp-admin\/admin-ajax.php","nonce":"48bc8c0b88"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.js?ver=1607623110' id='cb70d11b8-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.5' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.2' id='elementor-sticky-js'></script>
+			<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.1.1' id='joinchat-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.14' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.0.5' id='elementor-sticky-js'></script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/guiadoscore7dias.com\/wp-admin\/admin-ajax.php","nonce":"a43e869df9","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},
-"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/guiadoscore7dias.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/guiadoscore.com.br\/wp-admin\/admin-ajax.php","nonce":"9755f8cd83","i18n":{"toc_no_headings_found":"N\u00e3o foram encontrados cabe\u00e7alhos nesta p\u00e1gina."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"weixin":{"title":"WeChat"},"weibo":{"title":"Weibo"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.2' id='elementor-pro-frontend-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.5' id='share-link-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.0.5' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.14' id='share-link-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Download","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.5","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/guiadoscore7dias.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":8,"title":"Guia%20do%20Score%207%20Dias%20%E2%80%93%20Descubra%20como%20aumentar%20seu%20score%20em%20at%C3%A9%207%20dias","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.14","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/guiadoscore.com.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":570,"title":"Guia%20do%20Score%20%E2%80%93%20Aumente%20o%20seu%20score%20de%20cr%C3%A9dito","excerpt":"","featuredImage":false}};
 </script>
-<script type='text/javascript' src='https://guiadoscore7dias.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.5' id='elementor-frontend-js'></script>
-	</body>
+<script type='text/javascript' src='https://guiadoscore.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.14' id='elementor-frontend-js'></script>
+
+</body>
 </html>
